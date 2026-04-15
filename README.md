@@ -1,4 +1,4 @@
-# Foundations of Data – Data Mining (Unit 1)
+# Foundations of Data – Data Mining 
 
 This repository contains a PowerPoint presentation covering **Unit 1 of Data Mining**.  
 The PPT explains the **basic concepts of data**, its **types**, **patterns**, **visualization**, and **data mining techniques** in a simple and easy-to-understand manner.
